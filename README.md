@@ -1,2 +1,2 @@
 # data_analytics
-data analytics work
+In this project a dataset containing information about movies was analysed.
